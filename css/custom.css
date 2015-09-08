@@ -23,7 +23,7 @@ ol, ul {
 }
 
 .plan {
-    padding: 10px 30px 30px 30px;
+    padding: 10px 30px 30px;
     text-align: center;
     background: white;
     border: 1px solid #e5ded6;
@@ -44,7 +44,6 @@ ol, ul {
     font-weight:100;
     color: #999;
 }
-
 
 .price {
     margin:20px 0 20px 0;
