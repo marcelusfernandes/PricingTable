@@ -1,0 +1,116 @@
+
+body {
+    font: 13px/20px 'Roboto', Helvetica, Arial, sans-serif;
+    color: #404040;
+    line-height: 1;
+    background: #f1f1f1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+.workspace {
+    padding: 50px 50px 50px 60px;
+    text-align:center;
+}
+
+.workspace h1 {
+    font-size: 46px;
+    font-weight: 100;
+    margin:0 0 40px 0;
+    color: #999;
+}
+
+.plan {
+    padding: 10px 30px 30px 30px;
+    text-align: center;
+    background: white;
+    border: 1px solid #e5ded6;
+    border-color: rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+}
+
+.plan-title {
+    font-size: 32px;
+    font-weight:300;
+    color: #36bce6;
+}
+
+.desc {
+    margin-top:5px;
+    display:block;
+    font-size: 16px;
+    font-weight:100;
+    color: #999;
+}
+
+
+.price {
+    margin:20px 0 20px 0;
+    line-height: 1;
+    font-size: 36px;
+    font-weight: 400;
+    text-align: center;
+    color: #666;
+}
+
+.mny {
+    font-size:26px;
+    font-weight:100;
+}
+
+.per {
+    font-size: 26px;
+    font-weight: 100;
+    color: #ccc;
+}
+
+.features {
+    margin: 20px auto 15px;
+    padding: 20px 0 0 0;
+    border-top: 1px solid #f1f1f1;
+    text-align: left;
+}
+
+.feature {
+    line-height: 25px;
+    font-size: 16px;
+    font-weight: 100;
+    color: #999;
+}
+
+.feature-unit {
+    margin-left: 2px;
+    font-size: 16px;
+}
+
+.feature-name {
+    font-size: 13px;
+    font-weight: normal;
+    color: #aaa;
+}
+
+.button {
+    position: relative;
+    display: block;
+    line-height: 50px;
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 0 1px rgba(0, 0, 0, 0.1);
+    background: #fd935c;
+    border-bottom: 1px solid #cf7e3b;
+    border-color: rgba(0, 0, 0, 0.15);
+    border-radius: 3px;
+}
+
+.button:hover {
+    text-decoration:none;
+    background: #f87734;
+    color: #fff;
+}
+
+
